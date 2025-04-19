@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Erl-Code-X
-- 👀 I’m interested in WEB DEV AND ML
-- 🌱 I’m currently learning FRONTEND DEV
-- 💞️ I’m looking to collaborate on FRONTEND DEVELOPMENT PROJECTS
-- 📫 How to reach me I HAVE ADDED MY SOCIAL HANDLES
-- 😄 Pronouns: MALE
-- ⚡ Fun fact: I'M INTO FUTURISTIC ART
+-  Hi, I’m @Erl-Code-X
+-  I’m interested in AI AND BLOCKCHAIN TECH
+-  I’m currently learning BLOCKCHAIN TECH
+-  I’m looking to collaborate on BLOCKCHAIN DEV PROJECTS
+-  How to reach me I HAVE ADDED MY SOCIAL HANDLES
+-  Pronouns: MALE
+-  Fun fact: I'M INTO FUTURISTIC ART
 
 <!---
 Erl-Code-X/Erl-Code-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
