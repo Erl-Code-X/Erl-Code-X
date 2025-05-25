@@ -1,7 +1,7 @@
 -  Hi, I’m @Erl-Code-X
--  I’m interested in AI AND BLOCKCHAIN TECH
--  I’m currently learning BLOCKCHAIN TECH
--  I’m looking to collaborate on BLOCKCHAIN DEV PROJECTS
+-  I’m interested in AI AND BACKEND DEVELOPMENT
+-  I’m currently learning BACKEND DEVELOPMENT 
+-  I’m looking to collaborate on BACKEND DEV PROJECTS
 -  How to reach me I HAVE ADDED MY SOCIAL HANDLES
 -  Pronouns: MALE
 -  Fun fact: I'M INTO FUTURISTIC ART
